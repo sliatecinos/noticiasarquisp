@@ -1,7 +1,4 @@
 # -*- coding: latin1 -*-
-# import lxml.html as lh
-# from io import StringIO
-
 
 def recupera_noticia(response):
     title = response.css('div.title-box')

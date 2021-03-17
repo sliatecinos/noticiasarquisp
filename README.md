@@ -1,5 +1,5 @@
 # Coleção de noticias do site ARQUISP.ORG.BR
-> Webscrapping dos dados da seção de notícias do site Arquidiose de SP, com uso de Python.
+> Webscrapping dos dados da seção de notícias do site Arquidiocese de SP, com uso de Python.
 
 ___Projeto pessoal___ 
 **@author**: sliatecinos
